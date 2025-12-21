@@ -7,3 +7,7 @@ Single-File Architecture: Every project is contained within one .py file for max
 Minimal Dependencies: Focus on the Python Standard Library to ensure scripts run anywhere without complex environment setups.
 
 Easy Integration: Designed to be dropped into larger codebases with zero friction.
+
+🔒 Privacy Note
+
+To maintain the confidentiality of the organizations I work with, some inputs and variable names in these scripts have been modified or anonymized.
