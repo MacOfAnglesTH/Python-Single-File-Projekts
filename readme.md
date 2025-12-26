@@ -10,4 +10,4 @@ Easy Integration: Designed to be dropped into larger codebases with zero frictio
 
 🔒 Privacy Note
 
-To maintain the confidentiality of the organizations I work with, some inputs and variable names in these scripts have been modified or anonymized.
+To maintain the confidentiality of the organizations, some inputs and variable names in these scripts have been modified or anonymized.
