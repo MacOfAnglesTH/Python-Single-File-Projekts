@@ -1,4 +1,4 @@
-# Python Lite-Deploy Tools (3.6.8)
+# <img src="Python.png" width="29"/> Python Lite-Deploy Tools (3.6.8) 
 ## This repository features a collection of single-file Python scripts designed for lightweight deployment and seamless integration into larger projects.
 
 🚀 Design Philosophy
